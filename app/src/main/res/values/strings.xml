@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cocking Units Converter</string>
+    <string-array name="units_array">
+        <item>Milliliters</item>
+        <item>Ounces</item>
+        <item>Grams</item>
+        <item>Cups</item>
+    </string-array>
+    <string name="to">To</string>
+    <string name="input_hint">Enter amount</string>
+    <string name="calculate">Calculate</string>
+</resources>
